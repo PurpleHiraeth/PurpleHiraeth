@@ -1,4 +1,4 @@
--  Hi, I’m PurpleHiraeth and I am a complete beginner when it comes to anything programming related, although I am very eager to learn and improve as I want to pursue a career in the IT field!
+-  Hi, I’m PurpleHiraeth and I am currently a  beginner when it comes to anything programming related, although I am very eager to learn and improve as I want to pursue a career in the IT field!
 -  I’m interested in developing my front-end development skills and making connections with fellow coders!
 -  I’m currently learning: HTML, CSS and JavaScript.
 -  I’m looking to collaborate on projects that I can include in my portfolio.
